@@ -1,4 +1,4 @@
-# 👋 Hi — I'm Saketh
+# 👋 Hi — I'm Saketh Kollipara
 
 ### 🚀 AI & Machine Learning Enthusiast | Computer Engineering Student  
 
@@ -15,11 +15,3 @@ From classical ML to deep learning and experimental ideas in AI, I enjoy explori
 - 🌱 Sharing my learning journey and collaborating on open-source
 
 ---
-
-## 🤝 Let’s connect
-
-- 📧 Email: **ksgsaketh@gmail.com**  
-- 🌐 Always open to collaboration, discussions, and learning together!
-
-> _“Learning is a journey — not a finish line.”_
-
