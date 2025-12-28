@@ -16,13 +16,6 @@ From classical ML to deep learning and experimental ideas in AI, I enjoy explori
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakethksg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakethksg&layout=compact)
-
----
-
 ## 🤝 Let’s connect
 
 - 📧 Email: **ksgsaketh@gmail.com**  
